@@ -7,3 +7,4 @@ Parrot
 Red panda
 chimpanzee
 Tiger
+Bird
