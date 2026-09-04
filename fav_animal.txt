@@ -5,4 +5,5 @@ Kiwi Bird
 Cheetah
 Parrot
 Red panda
+chimpanzee
 Tiger
