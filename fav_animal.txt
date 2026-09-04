@@ -6,3 +6,4 @@ Cheetah
 Parrot
 Red panda
 Squirrels
+Squirrels 2x
